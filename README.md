@@ -1,13 +1,9 @@
-![alt text](pulic/LoGO.png)
+![](pulic/LoGO.png)
 # README
 
 Zara-O 
 Application Gesstion de projet
 
-![alt text](pulic/home.png)
-
-
-![alt text](pulic/dash.png)
 
 Projet de fin de formation Sayna 4 #the_hacking_project_7
 
