@@ -1,15 +1,13 @@
-<img src='pulic/LoGO.png'>
-
+![Home](https://github.com/RjFanotiana/ZaraO/pulic/LoGO.png)
 # README
 
 Zara-O 
 Application Gesstion de projet
 
+![Home](https://github.com/RjFanotiana/ZaraO/pulic/home.png)
 
-<img src='pulic/home.png'>
 
-
-<img src='pulic/dash.png'>
+![dash](https://github.com/RjFanotiana/ZaraO/pulic/dash.png)
 
 Projet de fin de formation Sayna 4 #the_hacking_project_7
 
